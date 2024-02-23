@@ -12,4 +12,5 @@ The Weather App is a web-based application that provides real-time weather infor
   - The app is designed to work seamlessly on various devices, including desktop and mobile.
 ## Preview
 ![Screenshot (226)](https://github.com/Abhay-yadav966/ElementalSky/assets/115336330/342db905-f488-44b3-8bdf-03a0f73356b7)
+![Screenshot (227)](https://github.com/Abhay-yadav966/ElementalSky/assets/115336330/111b53ad-cf8d-4c2f-bfb5-ed35769d31d1)
 
