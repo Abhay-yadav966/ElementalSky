@@ -15,3 +15,14 @@ The Weather App is a web-based application that provides real-time weather infor
 ![Screenshot (227)](https://github.com/Abhay-yadav966/ElementalSky/assets/115336330/111b53ad-cf8d-4c2f-bfb5-ed35769d31d1)
 ![Screenshot (228)](https://github.com/Abhay-yadav966/ElementalSky/assets/115336330/f82575f6-cd85-4132-be01-2cc92c26dc55)
 
+## Usage
+1. User Location Weather:
+   - Click the "Your Weather" tab to access weather information based on your current location.
+   - Grant location access when prompted.
+   - The app will display real-time weather details for your current coordinates.
+2. City Weather Search:
+   - Click the "Search Weather" tab.
+   - Enter the name of a city in the input field and submit the form.
+   - The app will fetch and display weather data for the specified city.
+## Contributing
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
